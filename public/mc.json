@@ -1,0 +1,227 @@
+{
+    "frames": {
+        "Knight 1.png": {
+            "frame": { "x": 0, "y": 0, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 2.png": {
+            "frame": { "x": 96, "y": 0, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 3.png": {
+            "frame": { "x": 192, "y": 0, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+
+        "Knight 4.png": {
+            "frame": { "x": 0, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 5.png": {
+            "frame": { "x": 96, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 6.png": {
+            "frame": { "x": 192, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 7.png": {
+            "frame": { "x": 288, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 8.png": {
+            "frame": { "x": 384, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 9.png": {
+            "frame": { "x": 480, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 10.png": {
+            "frame": { "x": 576, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 11.png": {
+            "frame": { "x": 672, "y": 96, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+
+
+        "Knight 12.png": {
+            "frame": { "x": 0, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 13.png": {
+            "frame": { "x": 96, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 14.png": {
+            "frame": { "x": 192, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 15.png": {
+            "frame": { "x": 288, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 16.png": {
+            "frame": { "x": 384, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 17.png": {
+            "frame": { "x": 480, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 18.png": {
+            "frame": { "x": 576, "y": 192, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+
+        "Knight 19.png": {
+            "frame": { "x": 0, "y": 288, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 20.png": {
+            "frame": { "x": 96, "y": 288, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 21.png": {
+            "frame": { "x": 192, "y": 288, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+
+        "Knight 22.png": {
+            "frame": { "x": 0, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 23.png": {
+            "frame": { "x": 96, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 24.png": {
+            "frame": { "x": 192, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 25.png": {
+            "frame": { "x": 288, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 26.png": {
+            "frame": { "x": 384, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 27.png": {
+            "frame": { "x": 480, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 28.png": {
+            "frame": { "x": 576, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 29.png": {
+            "frame": { "x": 672, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        },
+        "Knight 30.png": {
+            "frame": { "x": 768, "y": 384, "w": 96, "h": 96 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+            "sourceSize": { "w": 96, "h": 64 }
+        }
+
+
+    },
+    "meta": {
+        "image": "knight.png",
+        "format": "RGBA8888",
+        "size": { "w": 288, "h": 96 },
+        "scale": "1"
+    }
+}

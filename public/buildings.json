@@ -1,0 +1,24 @@
+{
+    "frames": {
+        "building_0.png": {
+            "frame": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        },
+        "building_1.png": {
+            "frame": { "x": 64, "y": 0, "w": 64, "h": 64 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 64 },
+            "sourceSize": { "w": 64, "h": 64 }
+        }
+    },
+    "meta": {
+        "image": "buildingsSprites.png",
+        "format": "RGBA8888",
+        "size": { "w": 128, "h": 64 },
+        "scale": "1"
+    }
+}
